@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+  font-size: 18px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/*.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}*/
+
+.App-header {
+  background-color: #009F1D;
+  height: 150px;
+  padding: 20px;
+  /*color: #ADC000;*/
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 1em;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.lt-green {
+  color: #F6F8CE;
+}
+
+.peach {
+  color: #FCB08E;
+}
+
+.pink {
+  color: #FF4078;
+}
+
+.turquoise {
+  color: #00E9D7;
+}
+
+.green {
+  color: #009F1D;
+}
+
+.dk-green {
+  color: #121E37;
+}
+
+.tk-chippewa-falls {
+
+}
+
+.tk-ff-basic-gothic-sc-web-pro {
+
+}
+
+.tk-ff-basic-gothic-web-pro {
+
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 0 auto;
+}
