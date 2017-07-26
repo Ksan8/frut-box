@@ -4,6 +4,8 @@
 
 **Type of Site:** Progressive Web App (PWA)
 
+![Früt Box sketches](design/frut-box_sketches-1.jpg)
+
 #### Key Functions:
 * Ability to search by fruit and location
 * Ability to add a location and fruit (or herb)
